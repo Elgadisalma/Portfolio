@@ -56,23 +56,19 @@ export default function Sidebar() {
                 <img src="/linkedin.png" className="w-6"></img>
             </a>
 
-            <a href="https://www.linkedin.com/in/salma-elgadi-704265296/" target="_blank">
+            <a href="https://github.com/Elgadisalma" target="_blank">
                 <img src="/github.png" className="w-6"></img>
             </a>
 
-            <a href="https://www.linkedin.com/in/salma-elgadi-704265296/" target="_blank">
-                <img src="/discord.png" className="w-6"></img>
-            </a>
-
-            <a href="https://www.linkedin.com/in/salma-elgadi-704265296/" target="_blank">
+            <a href="https://x.com/elgadi_salma" target="_blank">
                 <img src="/twitter.png" className="w-6"></img>
             </a>
 
-            <a href="https://www.linkedin.com/in/salma-elgadi-704265296/" target="_blank">
+            <a href="https://www.facebook.com/salma.elgadi.75" target="_blank">
                 <img src="/facebook.png" className="w-6"></img>
             </a>
 
-            <a href="https://www.linkedin.com/in/salma-elgadi-704265296/" target="_blank">
+            <a href="https://www.instagram.com/salma_elgadi1/" target="_blank">
                 <img src="/instagram.png" className="w-6"></img>
             </a>
 
