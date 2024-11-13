@@ -20,7 +20,7 @@ $message = $conn->real_escape_string($_POST['message']);
 // Préparer et exécuter la requête d'insertion
 $query = "INSERT INTO contact (fullname, email, message) VALUES ('$fullname', '$email', '$message')";
 if ($conn->query($query) === TRUE) {
-  header("Location: /salma_portfolio/"); 
+  header("Location: /salma_portfolio/ "); 
 } else {
   echo "Erreur lors de l'envoi du message : " . $conn->error;
 }
